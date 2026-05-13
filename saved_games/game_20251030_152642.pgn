@@ -1,0 +1,16 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.30"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "0-1"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. a3 Be7 8. Qe2 e5 9. Nf5 Bxf5 10. exf5 d5 11. O-O-O d4 12. Bg5 O-O
+13. Qxe5 Nc6 14. Qe2 Qa5 15. Bxf6 Bxf6 16. Ne4 Qxf5 17. g3 g6
+18. Bg2 Bg7 19. Kb1 Rad8 20. h3 d3 21. cxd3 Nd4 22. Qe3 Rfe8 23. Rhe1 Re5
+24. Qd2 Qd7 25. b4 Nb5 26. Qc1 Rc8 27. Nc5 Rcxc5 28. bxc5 Rxe1
+29. Rxe1 Qxd3 30. Ka2+ Nc3 31. Qxc3+ Bxc3 32. Re8 Kg7+ 33. Re2 Qc4
+34. Kb1+ Qxe2 35. Kc1 Qd2 36. Kb1+ Qb2 0-1

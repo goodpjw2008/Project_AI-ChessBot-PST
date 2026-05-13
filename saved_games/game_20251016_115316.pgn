@@ -1,0 +1,15 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.16"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "0-1"]
+[Opening "Modern Defense: Standard Defense"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 Nd7 6. h4 Ngf6 7. O-O-O Ng4
+8. h5 Nxe3 9. Qxe3 c5 10. Nge2 cxd4 11. Nxd4 b5 12. hxg6 hxg6
+13. Rxh8 Bxh8+ 14. Qh6 Bf6 15. Qh7 Bb7 16. Nd5 Bxd5 17. exd5 Qa5
+18. c3 Qxa2 19. Qg8 Nf8+ 20. Nc2 Bg5 21. Ne3+ b4 22. cxb4 Bxe3
+23. fxe3+ Rc8 24. Kd2+ Qxb2 25. Ke1+ Rc2 26. Qxf8 Kxf8+ 27. Bxa6 Rxg2
+28. Rd4 Qf2 29. Kd1+ Rg1 30. Bf1+ Rxf1 0-1

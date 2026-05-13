@@ -1,0 +1,16 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.16"]
+[Round "1"]
+[White "Human"]
+[Black "Chess AI"]
+[Result "1/2-1/2"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. c5 b6 5. cxb6 axb6 6. Nc3 Bb7
+7. Bg5 Nbd7 8. Bxf6 Nxf6 9. e3 Bb4 10. Bd3 Bxc3 11. bxc3+ Ra3
+12. Qc2 O-O 13. O-O c5 14. dxc5 bxc5 15. Rab1 Qa8 16. c4 dxc4
+17. Bxc4 Be4 18. Qc1 Bxb1 19. Qxb1 Rc3 20. Qb5 Rb8 21. Qa6 Qxa6
+22. Bxa6 Ra8 23. Rd1 h6 24. Bd3 Rxa2 25. Ne5 g6 26. Bb1 Rd2 27. Re1 Rb2
+28. h3 Rcb3 29. Bd3 Rd2 30. Bb1 Rdb2 31. Bd3 Rd2 32. Bb1 Rdb2
+1/2-1/2

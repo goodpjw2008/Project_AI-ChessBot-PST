@@ -1,0 +1,14 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.15"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "1/2-1/2"]
+[Opening "Unknown Opening"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nd7 6. Qc2 Bd6 7. Bd3 O-O
+8. O-O dxc4 9. Bxc4 a6 10. Rd1 b5 11. Bd3 Bb7 12. e4 c5 13. e5 Bxf3 14. gxf3
+cxd4 15. exf6 Nxf6 16. Ne4 Nxe4 17. Bxe4 Rc8 18. Bxh7 Kh8+ 19. Qe4 Qe7
+20. a4 f5 21. Bxf5 Rxf5 22. axb5 axb5 23. f4 Bc5 24. Ra6 Rf6 25. Re1 Bb4
+26. Rd1 Bc5 27. Re1 Bb4 28. Rd1 Bc5 1/2-1/2

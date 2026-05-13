@@ -1,0 +1,11 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.15"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "*"]
+[Opening "Ruy Lopez: Open, Bernstein Variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5
+8. dxe5 Be6 9. Nd2 Nc5 10. c3 Be7 11. Bc2 O-O 12. b4 *

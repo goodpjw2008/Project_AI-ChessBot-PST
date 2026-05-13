@@ -1,0 +1,10 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.15"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "*"]
+[Opening "King's Knight Opening"]
+
+1. e4 e5 2. Nf3 *

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# C++ build
+*.o
+*.obj
+*.exp
+*.lib
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Large data files (over GitHub 100MB limit)
+book.bin
+*.bin
+
+# Local environment
+.env
+*.local
+
+# Logs
+*.log

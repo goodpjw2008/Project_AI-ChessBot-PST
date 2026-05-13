@@ -1,0 +1,17 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.15"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "1/2-1/2"]
+[Opening "Ruy Lopez: Open, Bernstein Variation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 O-O 12. b4 Nd7
+13. Qe2 Re8 14. a3 g6 15. a4 f6 16. axb5 axb5 17. Rxa8 Qxa8 18. Bb2 Ncxe5
+19. Nd4 Bg4 20. Qxb5 c5 21. Ra1 Qb8 22. h3 Bh5 23. Qxb8 Rxb8 24. Ne6 cxb4
+25. Nf4 Nb6 26. Nxh5 bxc3 27. Bxc3 Rc8 28. Ra7 Rxc3 29. Rxe7 gxh5
+30. Bxh7 Kf8+ 31. Re6 Rc1 32. Kh2+ Rd1 33. Rxf6 Kg7+ 34. Rxb6 Rxd2
+35. Rb7 Kf8+ 36. Kg1 Rd1 37. Kh2+ Rd2 38. Kg1 Rd1 39. Kh2+ Rd2
+1/2-1/2

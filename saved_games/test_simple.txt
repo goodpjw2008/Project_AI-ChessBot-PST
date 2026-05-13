@@ -1,0 +1,16 @@
+# 간단한 테스트용 PGN
+# 아래 내용을 복사하여 'L' 키로 불러오기를 테스트하세요
+
+[Event "Test Game - Italian"]
+[Site "Test"]
+[Date "2025.10.15"]
+[Round "1"]
+[White "Test Player"]
+[Black "Test AI"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ *
+
+
+
+

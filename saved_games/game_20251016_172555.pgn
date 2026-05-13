@@ -1,0 +1,25 @@
+[Event "Chess AI Game"]
+[Site "Local Computer"]
+[Date "2025.10.16"]
+[Round "1"]
+[White "Chess AI"]
+[Black "Human"]
+[Result "1-0"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with d6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. h3 O-O 7. O-O a5
+8. Re1 h6 9. Nbd2 Be6 10. Bb5 Qb8 11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Bb6
+14. b3 a4 15. Ba3 Re8 16. b4 Qa7 17. Rc1 Bxd4 18. Nxd4 Qxd4 19. Rxc6 Bxa2
+20. Rxc7 Bb3 21. Nxb3 Qxd1 22. Rxd1 axb3 23. Bb2 Ra2 24. Bxf6 gxf6
+25. Rb1 Rxe4 26. Rxb3 Re1 27. Kh2+ Rxf2 28. b5 Ree2 29. Rg3 Kf8+
+30. b6 Re8 31. b7 Rb2 32. Ra3 Ree2 33. Ra8 Kg7+ 34. b8=Q Rxg2
+35. Kh1+ Rh2 36. Kg1+ Rhg2 37. Kf1+ Rgf2 38. Ke1+ Rfe2 39. Kd1+ Rxb8
+40. Rxb8 Rh2 41. Rbb7 Rxh3 42. Rxf7 Kg6+ 43. Rbd7 f5 44. Rf8 Rd3
+45. Kc2+ Rd5 46. Kc3 Kg5 47. Rdf7 h5 48. Kc4 Rc5 49. Kd4+ h4 50. Rg8 Kf4+
+51. Rg6 Rc2 52. Rxd6 Rd2 53. Kc5+ Rc2 54. Kd5+ Re2 55. Rdf6 Re5
+56. Kc6+ h3 57. Rh6 Re3 58. Rh5 Kg4 59. Rhxf5 h2 60. Rf1 Kh3 61. Rg7 Rc3
+62. Kd5+ Re3 63. Kd4 Rg3 64. Rh7 Kg2+ 65. Re1 Rg4 66. Kd3+ Rg3
+67. Kd2+ Ra3 68. Re2 Kg3+ 69. Rhxh2 Ra2 70. Kc3+ Ra3 71. Kb2+ Rf3
+72. Rhg2 Kf4+ 73. Re7 Re3 74. Rf2 Kg3+ 75. Rxe3 Kxf2+ 76. Rd3 Ke2
+77. Kc3 Kf2 78. Kd4 Ke1 79. Ke3 Kf1 80. Kf3 Kg1 81. Rd4 Kh2 82. Rd1 Kh3
+83. Rh1 1-0
