@@ -225,6 +225,16 @@ python lichess_bot_engine.py
 
 ---
 
+## 라이선스
+
+본 프로젝트의 자체 작성 코드는 [MIT License](LICENSE)로 배포됩니다.
+
+다만 본 프로젝트는 GPL/LGPL/CC 등 다른 라이선스를 가진 제3자 의존성을 사용합니다.
+실행/재배포 시 각 의존성의 라이선스 조건도 함께 충족해야 합니다.
+자세한 사항은 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)를 참고해주세요.
+
+---
+
 ## 작성자
 
 박진우(한국디지털미디어고등학교) - AI 탐구 프로젝트 (2024.11)
